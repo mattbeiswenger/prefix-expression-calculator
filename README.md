@@ -5,4 +5,4 @@ If Java 7 or above is installed on your system, then a JavaFX GUI interface shou
 - \+ 4 * 9 3
 - \* 2 - 1 1 / 4 5
 
-**_Note that there must be a space between each operand and operator for the program to properly run._**
+**_Note that there must be a space between each operand and operator for the program to properly run_**
