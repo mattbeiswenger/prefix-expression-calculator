@@ -3,6 +3,6 @@ To run the JavaFX application, clone or download the project files. Navigate to 
 If Java 7 or above is installed on your system, then a JavaFX GUI interface should appear asking to type a prefix expression. A prefix expression occurs when the operators precede the operands. Examples include:
 - \+ 2 3
 - \+ 4 * 9 3
-- \* 2 - 1 1 / 4 5
+- \- + \* / 10 2 6 8 3
 
 **_Note that there must be a space between each operand and operator for the program to properly run_**
