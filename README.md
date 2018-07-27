@@ -7,6 +7,8 @@ If Java 7 or above is installed on your system, then a JavaFX GUI interface shou
 
 **_Note that there must be a space between each operand and operator for the program to properly run_**
 
+# Screenshots
+
 <br />
 <p align="center">
   <img src="https://i.imgur.com/wIVZdoY.png">
